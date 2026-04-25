@@ -1,0 +1,8 @@
+_id,machinery_id,machinery_name,type_id,description,rent_per_day,machinery_img,__v
+67dcde83471a1f0b8cac415c,1,Mahindra Yuva Tractor,1,3 years old Mahindra Yuva Tractor disel,2000,PI1742528773224.png,0
+67dce15ece076f74affc3253,2,Mahindra Small Tractor,1,Mahindra small tractor for small agriculture land,1000,PI1742528862308.png,0
+67dce19ece076f74affc325c,3,John Deere Tractor,1,John Deere Tractor,2500,PI1742528926439.png,0
+67dce215ce076f74affc3265,4,John deere small ,1,john deere small tractor,1000,PI1742529045839.png,0
+67dce272ce076f74affc326e,5,Knapsnack sprayer,2,knapsnack sprayer 3 year old,1500,PI1742529138472.png,0
+67dce2a1ce076f74affc3277,6,Boom Sprayer,2,Boom Sprayer with tractor mounted,2500,PI1742529185080.png,0
+67dce34bce076f74affc3289,7,Gallon Sprayer,2,Gallon pto sprayer,1500,PI1742529355744.png,0
